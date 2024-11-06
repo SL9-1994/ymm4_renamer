@@ -38,3 +38,4 @@ Options:
 ## 対応フォーマット
 1. [旧きつねゆっくり](http://www.nicotalk.com/charasozai_kt.html)  
 2. 追加してほしいフォーマットがあれば、下記のブログ記事に対して要望のコメントを送ってもらえると助かります。  
+[はてなブログ](https://sl91994.hatenablog.com/entry/2024/11/06/174137)
