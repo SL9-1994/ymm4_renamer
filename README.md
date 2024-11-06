@@ -6,6 +6,11 @@
 .exe実行ファイルを1つダウンロードするだけで、導入は完了します。  
 ※ アンチウイルスソフトウェアにダウンロード・実行が弾かれる可能性があります。
 
+## 実行ファイル
+|Asset|Note|
+|---|---|
+|[ymm4_renamer.exe](https://github.com/SL9-1994/ymm4_renamer/releases/latest/download/ymm4_renamer.exe)|x86_64-pc-windows-gnu|
+
 ## 使い方
 
 ```
