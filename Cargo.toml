@@ -1,0 +1,16 @@
+[package]
+name = "ymm4_renamer"
+version = "0.1.0-alpha"
+edition = "2021"
+authors = ["Yurari <320sl91994@gmail.com>"]
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+env_logger = "0.11.5"
+log = "0.4.22"
+regex = "1.11.1"
+thiserror = "1.0.66"
+serde = { version = "1.0", features = ["derive"] }
+
+[profile.release]
+opt-level = 3  
